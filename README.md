@@ -6,7 +6,16 @@ I'm transitioning into Software Engineering with a background in healthcare oper
 Currently studying at <b>Codam Coding College</b>, I'm building a strong foundation in C, Python and algorithms through hands-on projects and problem solving.
 </p>
 
-<!-- COLE AQUI A SEÇÃO DE CONTATO -->
+<h3 align="center">📫 You can reach me here</h3>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/beand/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <h3 align="center">Current Tech Stack</h3>
 
@@ -14,8 +23,8 @@ Currently studying at <b>Codam Coding College</b>, I'm building a strong foundat
   <img src="https://skillicons.dev/icons?i=c,python,git,linux,vscode" />
 </p>
 
-<p align="center">
-### GitHub Streak
+<h3 align="center">GitHub Streak</h3>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=be-and&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=be-and&theme=tokyonight" />
 </p>
