@@ -14,6 +14,8 @@ Currently studying at <b>Codam Coding College</b>, I'm building a strong foundat
   <img src="https://skillicons.dev/icons?i=c,python,git,linux,vscode" />
 </p>
 
+<p align="center">
 ### GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=be-and&theme=tokyonight)
+</p>
