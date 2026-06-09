@@ -10,3 +10,15 @@ through hands-on projects and problem solving.
 
 ### Let's connect!
 - LinkedIn: https://www.linkedin.com/in/beand/
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+</p>
