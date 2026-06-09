@@ -15,9 +15,6 @@ Currently studying at <b>Codam Coding College</b>, I'm building a strong foundat
 <h3 align="center">📫 You can reach me here</h3>
 
 <p align="center">
-  <a href="mailto:be.and1704@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/beand/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
