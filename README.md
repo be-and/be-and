@@ -3,7 +3,9 @@
 <p align="center">
 I'm transitioning into Software Engineering with a background in healthcare operations and customer support.
 <br>
-Currently studying at <b>Codam Coding College</b>, I'm building a strong foundation in C, Python and algorithms through hands-on projects and problem solving.
+Currently studying at <b>Codam Coding College</b>, I'm building a strong foundation in C, Python and algorithms 
+<br>
+through hands-on projects and problem solving.
 </p>
 
 <h3 align="center">📫 You can reach me here</h3>
