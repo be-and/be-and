@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! i'm Beatriz Andrade</h3>
+<h3 align="center">Hi there! I'm Beatriz Andrade</h3>
 
 <p align="center">
 I'm transitioning into Software Engineering with a background in healthcare operations and customer support.
