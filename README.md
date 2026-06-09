@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Beatriz;Software+Engineering+Student;Codam+Coding+College" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140"/>
+</p>
+
 <h1 align="center">Hi, I'm Beatriz! 👋</h1>
 
 <p align="center">
