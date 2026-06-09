@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/cat-computer.gif" width="140"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="140"/>
 </p>
+
 <h1 align="center">Hi, I'm Beatriz! 👋</h1>
 
 <p align="center">
