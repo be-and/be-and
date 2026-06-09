@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Beatriz;Software+Engineering+Student;Codam+Coding+College" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Beatriz+Andrade;42+School+Student" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="140"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljOThhM2FmZTJjMjFiMTQ5MTgxMzMzMGNkZmY3ZGUyNTQ5NWQ1NCZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif" width="120"/>
 </p>
-
-<h1 align="center">Hi, I'm Beatriz! 👋</h1>
 
 <p align="center">
 I'm transitioning into Software Engineering with a background in healthcare operations and customer support.
