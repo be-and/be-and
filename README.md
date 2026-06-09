@@ -1,7 +1,7 @@
 <h3 align="center">Hi there! I'm Beatriz Andrade</h3>
 
 <p align="center">
-I'm transitioning into Software Engineering with a background in healthcare operations and customer support.
+With a background in healthcare operations and customer support, I'm now transitioning into Software Engineering.
 <br>
 Currently studying at <b>Codam Coding College</b>, I'm building a strong foundation in C, Python and algorithms 
 <br>
