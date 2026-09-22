@@ -21,9 +21,3 @@ through hands-on projects and problem solving.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,linux,vscode" />
 </p>
-
-<h3 align="center">GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=be-and&theme=tokyonight" />
-</p>
